@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list",
+  "name": "todo-list",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,19 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Odudz/to-do-list.git"
+    "url": "git+https://github.com/Coplyjs/todo-list.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Odudz/to-do-list/issues"
+    "url": "https://github.com/Coplyjs/todo-list/issues"
   },
-  "homepage": "https://github.com/Odudz/to-do-list#readme",
+  "homepage": "https://github.com/Coplyjs/todo-list#readme",
   "dependencies": {
     "express": "^5.1.0",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "type": "module"
 }
